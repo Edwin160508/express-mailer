@@ -1,0 +1,20 @@
+{
+  "name": "enviando-emails-com-express-mailer-gmail-smtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: não há teste específico\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mailer"
+  ],
+  "author": "Edwin Lima",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-mailer": "^0.3.1",
+    "pug": "^2.0.3"
+  }
+}
